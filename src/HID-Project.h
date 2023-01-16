@@ -44,6 +44,8 @@ THE SOFTWARE.
 #include "MultiReport/Consumer.h"
 #include "SingleReport/SingleGamepad.h"
 #include "MultiReport/Gamepad.h"
+#include "SingleReport/SingleJoystick.h"
+#include "MultiReport/Joystick.h"
 #include "SingleReport/SingleSystem.h"
 #include "MultiReport/System.h"
 #include "SingleReport/RawHID.h"
